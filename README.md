@@ -1,5 +1,6 @@
 # AIML-Capstone-Project---MagicEye
-Multilabel Image Classification model to help to Identify Indoor Objects for Visually Impaired Person
+Multilabel Image Classification model to help to Identify Indoor Objects for Visually Impaired Person.
+
 Implementation:
 
 To train the model to identify the objects we have followed below steps:
